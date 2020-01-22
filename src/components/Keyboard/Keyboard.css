@@ -1,0 +1,27 @@
+.display {
+	font-family: 'Gruppo';
+	font-size: 60px;
+	border: 1px solid #000;
+	margin: 30px 43% 30px 43%;
+	text-align: right;
+	padding: 4px;
+	border-radius: 4px;
+	background: #000;
+	color: #fff;
+	overflow: hidden;
+}
+
+.keyboardBtn {
+	font-family: 'Gruppo';
+	font-size: 45px;
+	padding: 5px;
+	border-radius: 5px;
+	width: 105px;
+	height: 105px;
+	outline: none;
+	margin: 5px;
+}
+
+.delBtn {
+	width: 220px;
+}
